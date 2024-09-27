@@ -1,9 +1,18 @@
 p{
-font-weight: 900;
-color:cornflowerblue
+font-size: larger;
+color:rgb(39, 99, 155)
 }
 div{
 
-max-width: 800px;
+max-width: 1;
 
+}
+
+h1{
+font-weight: 200000;
+color:rgb(0, 60, 255)
+}
+
+body{
+background-color: bisque;
 }
