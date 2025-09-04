@@ -1,6 +1,6 @@
 p{
 font-size: larger;
-color:rgb(39, 99, 155)
+color:rgb(144, 190, 233)
 }
 div{
 
@@ -10,9 +10,9 @@ max-width: 1;
 
 h1{
 font-weight: 200000;
-color:rgb(0, 60, 255)
+color:rgb(137, 156, 221)
 }
 
 body{
-background-color: bisque;
+background-color: rgb(255, 255, 255);
 }
